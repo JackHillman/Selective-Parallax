@@ -12,6 +12,8 @@ Then just call it on your element using standard jQuery method calling, e.g.
 
 If you'd like to change how strong the effect is, the strength can be modified by entering a number in the parenthesis as a parameter.
 
-The default strength is 1.2, 1 would be static, and <1 would give the reverse effect. E.g.
+The default strength is 1.2, 1 would be static, and <1 would give the reverse effect.
+
+E.g.
 
 >`$("#id").parallax(1.4);`
